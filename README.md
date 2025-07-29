@@ -51,22 +51,10 @@ Precision, Recall, F1-Score
 
 ✅ How to Run
 Clone this repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/your-username/your-repo-name.git
 Navigate to the project directory:
-
-bash
-Copy
-Edit
 cd your-repo-name
 Open the notebook:
-
-bash
-Copy
-Edit
 jupyter notebook Predict_Delay_in_Flight_.ipynb
 💡 Future Improvements
 Integrate real-time flight data via APIs
